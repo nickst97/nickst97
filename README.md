@@ -5,15 +5,17 @@
 
 🎉 Welcome to my GitHub profile!
 
+<br/>
+
 👨🏻‍💻 I'm Nick Stavrakakis from Athens, Greece
 
 🎓 I just got my degree on Informatics & Telecommunications
 
+<br/>
+
 🚀 My main project:
 
 - [Geolocating News](https://nickst97.github.io/GeolocatingNews/) - A web application that visualizes the latest news in the map of Greece
-
-<br/>
 
 ⚙️ University projects:
 
