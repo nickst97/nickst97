@@ -36,6 +36,15 @@
 </div>
 
 <br/>
+   
+<div align="center">
+   <details>
+   <summary> University projects:</summary>
+   xx
+   </details>
+</div>
+
+<br/>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
@@ -47,13 +56,4 @@
 
 <div align="center">
    nickst97@outlook.com
-</div>
-
-<br/>
-   
-<div align="center">
-   <details>
-   <summary> University projects:</summary>
-   xx
-   </details>
 </div>
