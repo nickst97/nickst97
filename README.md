@@ -22,7 +22,7 @@
 
 
 <details>
-<summary>⚙️ University projects:</summary>
+<summary> University projects:</summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
@@ -50,6 +50,8 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </p>
+
+<br/>
 
 <br/>
 
