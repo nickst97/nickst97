@@ -43,9 +43,15 @@
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
       <img src="https://accelladigital.com/wp-content/uploads/2015/04/view-my-linkedin-profile-300x77.png" alt="linkedin_badge" height="40" />
    </a>
-      
+</p>
 
+<br/>
 
+<p align="center"> 
+   nickst97@outlook.com
+</p>
+
+<p align="center"> 
 
 <details>
 <summary> University projects:</summary>
