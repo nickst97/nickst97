@@ -6,6 +6,8 @@
 
 👨🏻‍💻 I'm Nick Stavrakakis from Athens, Greece
 
+<br/>
+
 🎓 I just got my degree on Informatics & Telecommunications at NKUA
 
 <br/>
