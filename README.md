@@ -45,12 +45,7 @@
    </a>
       
 
-</p>
 
-   
-<br/>
-
-<div align="center"> 
 
 <details>
 <summary> University projects:</summary>
@@ -59,9 +54,8 @@ xx
 
 </details>
 
-</div >
+</p>
 
-<br/>
 
 
 
