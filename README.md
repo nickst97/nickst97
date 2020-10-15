@@ -51,7 +51,7 @@
    nickst97@outlook.com
 </p>
 
-<p align="center"> 
+<div align="center"> 
 
 <details>
 <summary> University projects:</summary>
@@ -60,7 +60,7 @@ xx
 
 </details>
 
-</p>
+</div>
 
 
 
