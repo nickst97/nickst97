@@ -19,10 +19,10 @@
 
 <br/>
 
-⚙️ University projects:
+
 
 <details>
-<summary> Click to view </summary>
+<summary>⚙️ University projects:</summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
