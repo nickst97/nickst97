@@ -56,7 +56,7 @@
 <p align="center"> 
    <a href="https://www.linkedin.com/in/nickst97/">
       <img src="/media/linkedin_badge.png" alt="linkedin_badge" height="75" margin="20" />
-   </a>gmail_badge
+   </a>
    <a href="mailto:nickst97@outlook.com">
       <img src="/media/gmail_badge.png" alt="gmail_badge" height="75" margin="20" />
    </a>
