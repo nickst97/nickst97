@@ -18,8 +18,11 @@
 <summary>Compilers</summary>
 
 [LL1_Calculator_Parser](https://github.com/nickst97/LL1_Calculator_Parser)
+
 [Translator_to_Java](https://github.com/nickst97/Translator_to_Java)
+
 [MiniJava_Static_Checking](https://github.com/nickst97/MiniJava_Static_Checking)
+
 
 </details>
 
