@@ -19,7 +19,7 @@
 <br/>
 
 <details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>About Open Source </summary>
+<summary>About Open Source </summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
