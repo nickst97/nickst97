@@ -54,10 +54,10 @@
 <br/>
 
 <p align="center"> 
-   <a href="https://www.linkedin.com/in/nickst97/">
+   <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
       <img src="/media/linkedin_badge.png" alt="linkedin_badge" height="75" style="margin: 60px" />
    </a>
-   <a href="mailto:nickst97@outlook.com" target="_blank">
+   <a href="nickst97@outlook.com" target="_blank">
       <img src="/media/gmail_badge.png" alt="gmail_badge" height="75" style="margin: 20px" />
    </a>
 </p>
