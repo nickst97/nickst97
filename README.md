@@ -55,8 +55,8 @@
 <br/>
 
 <p align="center"> 
-   <img src="/media/gmail_badge.png" alt="azure"  height="100" />
-   <img src="/media/linkedin_badge.png" alt="azure"  />
+   <img src="/media/gmail_badge.png" alt="azure"  height="75" />
+   <img src="/media/linkedin_badge.png" alt="azure"  height="75"  />
 
 </p>
 
