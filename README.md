@@ -40,6 +40,7 @@
 <div align="center">
    <details>
    <summary> University projects:</summary>
+      
    Data Mining:
       [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
