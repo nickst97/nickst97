@@ -41,7 +41,7 @@
 
 <p align="center"> 
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
-      <img src="https://accelladigital.com/wp-content/uploads/2015/04/view-my-linkedin-profile-300x77.png" alt="linkedin_badge" height="40"/>
+      <img src="https://accelladigital.com/wp-content/uploads/2015/04/view-my-linkedin-profile-300x77.png" alt="linkedin_badge" height="40" />
    </a>
       
 
@@ -50,6 +50,7 @@
    
 <br/>
 
+<div align="center"> 
 
 <details>
 <summary> University projects:</summary>
@@ -58,7 +59,9 @@ xx
 
 </details>
 
+</div >
 
+<br/>
 
 
 
