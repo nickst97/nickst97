@@ -1,8 +1,9 @@
 
 ### nickst97
 
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" align="right" height="150">
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" align="right" height="300">
 
+<br/>
 
 🎉 Welcome to my GitHub profile!
 
@@ -19,7 +20,7 @@
 <br/>
 
 <details>
-<summary>About Open Source </summary>
+<summary>University Projects </summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
