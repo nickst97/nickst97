@@ -1,7 +1,7 @@
 
 <h2> nickst97 </h2>
 
-<img src="/media/laptop.gif" align="right" height="200">
+<img src="/media/StressedCoffeeSticker.gif" align="right" height="200">
 
 🎉 Welcome to my GitHub profile!
 
@@ -51,3 +51,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 
 </p>
+
+<br/>
+
+<p align="center"> 
+   <img src="/media/gmail_badge.png" alt="azure" width="40" height="40" />
+   <img src="/media/linkedin_badge.png" alt="azure" width="40" height="40" />
+
+</p>
+
