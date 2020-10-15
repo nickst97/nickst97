@@ -20,7 +20,7 @@
 
 <br/> <br/>
 
-<p align="center"> 
+<div align="center"> 
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> 
@@ -33,7 +33,6 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-</p>
 
 <br/>
 
@@ -47,11 +46,8 @@
 
 <br/>
 
-<p align="center"> 
    nickst97@outlook.com
-</p>
 
-<div align="center"> 
 
 <details>
 <summary> University projects:</summary>
@@ -61,7 +57,3 @@ xx
 </details>
 
 </div>
-
-
-
-
