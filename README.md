@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/D9ZTy04.gif" align="right" height="200">
+<img src="https://i.imgur.com/D9ZTy04.gif" align="right" height="500">
 
 🎉 Welcome to my GitHub profile!
 
