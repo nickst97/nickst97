@@ -1,7 +1,7 @@
 
 <h2> nickst97 </h2>
 
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" align="right" height="200">
+<img src="/media/laptop.gif" align="right" height="200">
 
 🎉 Welcome to my GitHub profile!
 
