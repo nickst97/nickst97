@@ -39,7 +39,7 @@
    
 <div align="center">
    <details>
-   <summary> University projects:</summary>
+   <summary></summary>
       
    Data Mining<br/>[Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
    
@@ -48,9 +48,13 @@
    Object-Oriented Programming<br/>[Carbon_Isotope_Simulation](https://github.com/nickst97/Carbon_Isotope_Simulation)
    
    Technologies of Internet Applications<br/>[Online_Auction_Website](https://github.com/nickst97/Online_Auction_Website)
+   
    Software Development<br/>[Join_Query_Optimization-SIGMOD2018](https://github.com/nickst97/Join_Query_Optimization-SIGMOD2018)
+   
    Programming Systems<br/>[Bitcoin_Transactions](https://github.com/nickst97/Bitcoin_Transactions) / [Simplified_Dropbox](https://github.com/nickst97/Simplified_Dropbox)
+   
    Operating Systems<br/>[Transaction_System](https://github.com/nickst97/Transaction_System) / [Record_Search_Tree](https://github.com/nickst97/Record_Search_Tree) / [Port_Simulation](https://github.com/nickst97/Port_Simulation)
+   
    Compilers<br/>[LL1_Calculator_Parser](https://github.com/nickst97/LL1_Calculator_Parser) / [Translator_to_Java](https://github.com/nickst97/Translator_to_Java) / [MiniJava_Static_Checking](https://github.com/nickst97/MiniJava_Static_Checking)
    </details>
 </div>
