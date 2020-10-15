@@ -1,7 +1,7 @@
 
 <h2> nickst97 </h2>
 
-<img src="/media/StressedCoffeeSticker.gif" align="right" height="200">
+<img src="/media/StressedCoffeeSticker.gif" align="right" width="250">
 
 🎉 Welcome to my GitHub profile!
 
@@ -55,10 +55,10 @@
 
 <p align="center"> 
    <a href="https://www.linkedin.com/in/nickst97/">
-      <img src="/media/linkedin_badge.png" alt="linkedin_badge" height="75" margin="20" />
+      <img src="/media/linkedin_badge.png" alt="linkedin_badge" height="75" style="margin: 20px" />
    </a>
    <a href="mailto:nickst97@outlook.com">
-      <img src="/media/gmail_badge.png" alt="gmail_badge" height="75" margin="20" />
+      <img src="/media/gmail_badge.png" alt="gmail_badge" height="75" style="margin: 20px" />
    </a>
 </p>
 
