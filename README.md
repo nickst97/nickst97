@@ -32,7 +32,7 @@
 
 <div align="center">
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
-      <img src="https://actionemployment.net/wp-content/uploads/2017/08/view-my-linkedin-profile.png" alt="linkedin_badge" height="40" />
+      <img src="https://actionemployment.net/wp-content/uploads/2017/08/view-my-linkedin-profile.png" alt="linkedin_badge" height="50" />
    </a>
 </div>
 
