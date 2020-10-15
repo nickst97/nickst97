@@ -57,10 +57,12 @@
 
 <p align="center"> 
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
-      <img src="/media/linkedin_badge.png" alt="linkedin_badge" height="75" style="margin: 60px" />
-   </a>
-   <a href="nickst97@outlook.com" target="_blank">
-      <img src="/media/gmail_badge.png" alt="gmail_badge" height="75" style="margin: 20px" />
+      <img src="https://accelladigital.com/wp-content/uploads/2015/04/view-my-linkedin-profile-300x77.png" alt="linkedin_badge" height="75"
    </a>
 </p>
+   
+<p align="center"> 
+   hey
+</p>
+
 
