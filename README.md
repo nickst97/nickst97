@@ -17,9 +17,7 @@
 
 - [Geolocating News](https://nickst97.github.io/GeolocatingNews/) - A web application that visualizes the latest news in the map of Greece
 
-⚙️ University projects:
-
-<details>
+⚙️ University projects: <details>
 <summary> Click to view </summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
