@@ -1,17 +1,13 @@
 
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" align="right" height="300">
+<h2> nickst97 </h2>
 
-### nickst97
-
-<br/>
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" align="right" height="200">
 
 🎉 Welcome to my GitHub profile!
 
 👨🏻‍💻 I'm Nick Stavrakakis from Athens, Greece
 
-🎓 I just got my degree on Informatics & Telecommunications at National and Kapodistrian University of Athens
-
-<br/>
+🎓 I just got my degree on Informatics & Telecommunications
 
 🚀 My main project:
 
@@ -19,8 +15,10 @@
 
 <br/>
 
+⚙️ University projects:
+
 <details>
-<summary>University Projects </summary>
+<summary> Click to view </summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
