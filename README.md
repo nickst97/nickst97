@@ -32,6 +32,7 @@
 * Operating Systems: [Transaction_System](https://github.com/nickst97/Transaction_System) / [Record_Search_Tree](https://github.com/nickst97/Record_Search_Tree) / [Port_Simulation](https://github.com/nickst97/Port_Simulation)
 * Compilers: [LL1_Calculator_Parser](https://github.com/nickst97/LL1_Calculator_Parser) / [Translator_to_Java](https://github.com/nickst97/Translator_to_Java) / [MiniJava_Static_Checking](https://github.com/nickst97/MiniJava_Static_Checking)
 
+<br/>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
