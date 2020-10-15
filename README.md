@@ -18,7 +18,7 @@
 
 <br/>
 
-<details>
+&nbsp;&nbsp;&nbsp;<details>
 <summary>About Open Source </summary>
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
@@ -30,6 +30,6 @@
 * Programming Systems: [Bitcoin_Transactions](https://github.com/nickst97/Bitcoin_Transactions) / [Simplified_Dropbox](https://github.com/nickst97/Simplified_Dropbox)
 * Operating Systems: [Transaction_System](https://github.com/nickst97/Transaction_System) / [Record_Search_Tree](https://github.com/nickst97/Record_Search_Tree) / [Port_Simulation](https://github.com/nickst97/Port_Simulation)
 * Compilers: [LL1_Calculator_Parser](https://github.com/nickst97/LL1_Calculator_Parser) / [Translator_to_Java](https://github.com/nickst97/Translator_to_Java) / [MiniJava_Static_Checking](https://github.com/nickst97/MiniJava_Static_Checking)
-* 
+
 </details>
 
