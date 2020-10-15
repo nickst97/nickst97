@@ -35,21 +35,22 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </div>
 
-<br/> <br/>
+<br/>
 
-<div align="center"> 
+<div align="center">
+   
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
       <img src="https://accelladigital.com/wp-content/uploads/2015/04/view-my-linkedin-profile-300x77.png" alt="linkedin_badge" height="40" />
    </a>
-
+   
+   <br/>
+   
    nickst97@outlook.com
-
-
-<details>
-<summary> University projects:</summary>
-
-xx
-
-</details>
-
+   
+   <br/>
+   
+   <details>
+   <summary> University projects:</summary>
+   xx
+   </details>
 </div>
