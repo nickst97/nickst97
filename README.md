@@ -30,7 +30,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
    <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
       <img src="https://actionemployment.net/wp-content/uploads/2017/08/view-my-linkedin-profile.png" alt="linkedin_badge" height="50" />
    </a>
@@ -38,6 +38,6 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
    nickst97@outlook.com
 </div>
