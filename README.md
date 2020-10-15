@@ -17,7 +17,7 @@
 
 - [Geolocating News](https://nickst97.github.io/GeolocatingNews/) - A web application that visualizes the latest news in the map of Greece
 
-<br/> <br/>
+<br/>
 
 <details>
 <summary> University projects:</summary>
@@ -33,6 +33,8 @@
 * Compilers: [LL1_Calculator_Parser](https://github.com/nickst97/LL1_Calculator_Parser) / [Translator_to_Java](https://github.com/nickst97/Translator_to_Java) / [MiniJava_Static_Checking](https://github.com/nickst97/MiniJava_Static_Checking)
 
 </details>
+
+<br/> <br/>
 
 <p align="center"> 
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
