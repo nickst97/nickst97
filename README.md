@@ -17,9 +17,7 @@
 
 - [Geolocating News](https://nickst97.github.io/GeolocatingNews/) - A web application that visualizes the latest news in the map of Greece
 
-<br/>
-
-
+<br/> <br/>
 
 <details>
 <summary> University projects:</summary>
