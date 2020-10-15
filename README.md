@@ -1,7 +1,7 @@
 
 <h2> nickst97 </h2>
 
-<img src="/media/StressedCoffeeSticker.gif" align="right" width="250">
+<img src="/media/StressedCoffeeSticker.gif" align="right" height="200">
 
 🎉 Welcome to my GitHub profile!
 
