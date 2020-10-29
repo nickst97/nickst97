@@ -18,7 +18,7 @@
 
 <br/>
 
-⚙️ University projects
+⚙️ University projects:
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
 
