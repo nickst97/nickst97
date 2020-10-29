@@ -1,5 +1,3 @@
-<!---
-
 <img src="https://i.imgur.com/D9ZTy04.gif" align="right" height="250">
 
 🎉 Welcome to my GitHub profile!
@@ -45,4 +43,3 @@
 <div align="center">
    nickst97@outlook.com
 </div>
--->
