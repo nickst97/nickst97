@@ -12,9 +12,10 @@
 
 <br/>
 
-🚀 My main project:
+🚀 Current project:
 
-- [Geolocating News](https://nickst97.github.io/GeolocatingNews/) - A web application that visualizes the latest news in the map of Greece
+- [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news in the map of Greece
+- [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
 
 <br/>
 
