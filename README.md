@@ -15,6 +15,8 @@
 🚀 Working project:
 
 - [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news in the map of Greece
+
+<br/>
  
 🏡 Lockdown project:
 
