@@ -12,9 +12,12 @@
 
 <br/>
 
-🚀 Current project:
+🚀 Working project:
 
 - [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news in the map of Greece
+ 
+🏡 Lockdown project:
+
 - [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
 
 <br/>
