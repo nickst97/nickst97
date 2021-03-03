@@ -27,8 +27,6 @@
 ⚙️ University projects:
 
 * Data Mining: [Sentiment_Analysis](https://github.com/nickst97/Sentiment_Analysis)
- [nickst97@outlook.com](mailto:nickst97@outlook.com)
-
 * Human-Computer Interaction: [Redesigning_Eudoxus](https://github.com/nickst97/Redesigning_Eudoxus)
 * Object-Oriented Programming: [Carbon_Isotope_Simulation](https://github.com/nickst97/Carbon_Isotope_Simulation)
 * Technologies of Internet Applications: [Online_Auction_Website](https://github.com/nickst97/Online_Auction_Website)
@@ -48,5 +46,5 @@
 <br/>
 
 <div align="center">
-<a href="mailto:someone@yoursite.com">Email Us</a>  
+   <a href="mailto:nickst97@outlook.com">nickst97@outlook.com</a>  
 </div>
