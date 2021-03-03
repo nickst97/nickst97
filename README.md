@@ -48,5 +48,5 @@
 <br/>
 
 <div align="center">
- [nickst97@outlook.com](mailto:nickst97@outlook.com)
+<a href="mailto:someone@yoursite.com">Email Us</a>  
 </div>
