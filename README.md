@@ -47,5 +47,5 @@
 <br/>
 
 <div align="center">
-   nickst97@outlook.com
+ [nickst97@outlook.com](mailto:nickst97@outlook.com)
 </div>
