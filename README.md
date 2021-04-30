@@ -18,7 +18,7 @@
 
 <br/>
  
-🏡 Lockdown project:
+🏡 Quarantine project:
 
 - [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
 
