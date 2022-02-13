@@ -4,11 +4,15 @@
 
 <br/>
 
-👨🏻‍💻 I'm Nick Stavrakakis from Athens, Greece
+👨🏻‍💻 I'm Nikolas Stavrakakis from Athens, Greece.
 
 <br/>
 
-🎓 I just got my degree on Informatics & Telecommunications at NKUA
+🎓 Graduate student from the National and Kapodistrian University of Athens with a BSc in Informatics & Telecommunications.
+
+<br/>
+
+💼 Currently working as a Developer for Alma Economics.
 
 <br/>
 
