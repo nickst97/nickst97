@@ -8,7 +8,7 @@
 
 <br/>
 
-🎓 Graduate student from the National and Kapodistrian University of Athens with a BSc in Informatics & Telecommunications.
+🎓 Graduate student from the NKUA with a BSc in Informatics & Telecommunications.
 
 <br/>
 
