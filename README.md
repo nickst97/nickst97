@@ -8,17 +8,17 @@
 
 <br/>
 
+💼 Currently working as a Full-Stack Developer for Alma Economics.
+
+<br/>
+
 🎓 Graduate student from the NKUA with a BSc in Informatics & Telecommunications.
 
 <br/>
 
-💼 Currently working as a Developer for Alma Economics.
+🚀 Favorite project:
 
-<br/>
-
-🚀 Working project:
-
-- [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news in the map of Greece
+- [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news on the map of Greece
 
 <br/>
  
