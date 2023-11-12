@@ -16,15 +16,10 @@
 
 <br/>
 
-🚀 Favorite project:
+🚀 Favorite projects:
 
-- [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news on the map of Greece
-
-<br/>
- 
-🏡 Quarantine project:
-
-- [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
+* [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news on the map of Greece
+* [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
 
 <br/>
 
