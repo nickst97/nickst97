@@ -16,7 +16,7 @@
 
 <br/>
 
-🌐 View my personal website at [nickst97.dev](https://nickst97.dev/).
+🌐 Visit my personal website at [nickst97.dev](https://nickst97.dev/).
 
 <br/>
 
