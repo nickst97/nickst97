@@ -16,6 +16,10 @@
 
 <br/>
 
+🌐 View my personal website at [nickst97.dev](https://nickst97.dev/).
+
+<br/>
+
 🚀 Favorite projects:
 
 * [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news on the map of Greece
