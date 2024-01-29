@@ -4,19 +4,19 @@
 
 <br/>
 
-👨🏻‍💻 I'm Nikolas Stavrakakis from Athens, Greece.
+👨🏻‍💻 I'm Nikolas Stavrakakis from Athens, Greece
 
 <br/>
 
-💼 Currently working as a Full-Stack Developer for Alma Economics.
+💼 Currently working as a Full-Stack Developer for Alma Economics
 
 <br/>
 
-🎓 Graduate student from the NKUA with a BSc in Informatics & Telecommunications.
+🎓 Graduate student from the NKUA with a BSc in Informatics & Telecommunications
 
 <br/>
 
-🌐 Visit my personal website at [nickst97.dev](https://nickst97.dev/).
+🌐 Visit my personal website at [nickst97.dev](https://nickst97.dev/)
 
 <br/>
 
