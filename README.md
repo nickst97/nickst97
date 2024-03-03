@@ -43,7 +43,7 @@
 <br/>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/nickst97/" target="_blank">
+   <a href="https://www.linkedin.com/in/nickst97/" target="_blank" rel="noopener noreferrer">
       <img src="https://www.skillsalliance.com/wp-content/uploads/2018/08/view-my-linkedin-profile.png" alt="linkedin_badge" height="50" />
    </a>
 </div>
