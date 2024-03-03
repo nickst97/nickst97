@@ -23,6 +23,8 @@
 🚀 Favorite projects:
 
 * [Geolocating News](https://geolocating.news/) - A web application that visualizes the latest news on the map of Greece
+* [ReactJS Issues](https://github.com/nickst97/reactjs-issues-project) - A web application that displays the list of issues from the ReactJS repository on GitHub
+* [Online Bookstore](https://github.com/nickst97/online-bookstore-project) - A fully functional online bookstore
 * [Tichu Card Tracker](https://github.com/nickst97/Tichu_Card_Tracker) - A Chrome extension that tracks the remaining cards for the online card game *Tichu*
 
 <br/>
