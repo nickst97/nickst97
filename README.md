@@ -8,7 +8,7 @@
 
 <br/>
 
-💼 Currently working as a Full-Stack Developer for Alma Economics
+💼 Currently working as a Frontend Engineer for Viva.com
 
 <br/>
 
